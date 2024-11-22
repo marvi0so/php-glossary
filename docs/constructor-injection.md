@@ -1,6 +1,6 @@
 # Constructor injection
 
-A common way of providing [dependency injection](dependecy-injection.md) to an
+A common way of providing [dependency injection](dependency-injection.md) to an
 object when it is first instantiated. Dependencies are passed as args in the
 `__construct()` method of a class.
 
